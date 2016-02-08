@@ -1,0 +1,7 @@
+java8:
+  build: ./java8
+
+emacs:
+  build: ./emacs
+  links:
+   - java8
