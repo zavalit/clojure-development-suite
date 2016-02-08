@@ -1,4 +1,4 @@
-from java8
+from clojuredevelopmentsuite_java8
 
 ENV LAST_UPDATE 07-02-2016
 ENV CIDER_VER 0.8.1
